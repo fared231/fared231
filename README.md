@@ -1,5 +1,11 @@
-## Hi, I’m Farid Magdy 
-Software Development Prodigy
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="flex: 1;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&color=FF00FF&center=false&vCenter=true&width=600&lines=Hi,+I’m+Abdelrahman+Mahmoud;Software+Development+Prodigy;&+Code+Master" alt="Typing SVG">  </div>
+  <div style="flex: 1; text-align: right;">
+    <img src="https://chatlink.runasp.net//images/ChatGPT%20Image%20Apr%205,%202025,%2001_26_16%20PM.png" width="300">
+  </div>
+</div>
+
 
 <!--
 **fared231/fared231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
